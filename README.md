@@ -2,14 +2,14 @@
 <h2 align="center">Desafio 10: GoRestaurant Web</h2>
 
 Criação de uma aplicação web praticando os conceitos de CRUD (Create, Read, Update, Delete), onde pode ser consumido os dados de uma fake API.<br>
-Na aplicação é possível realizar o cadastro de pratos (contendo imagem, nome, preço e descrição), assim como editar as informaçõs cadastradas e/ou alterar a disponibilidade, remover pratos e listar os cadastrados.<br><br>
+Na aplicação é possível realizar o cadastro de pratos (contendo imagem, nome, preço e descrição), assim como editar as informaçõs cadastradas e/ou alterar a disponibilidade, remover pratos e listar os cadastrados.<br>
 
 Para o funcionamento da fake API, a mesma deve ser inicializada:
 ```js
   yarn json-server server.json -p 3333
 ```
 
-Para inicilizar a aplicação:
+Para inicializar a aplicação:
 ```js
   yarn start
 ```
