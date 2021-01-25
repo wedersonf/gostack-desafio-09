@@ -13,5 +13,5 @@ Para inicilizar a aplicação:
 ```js
   yarn start
 ```
-<br><br>
+<br>
 Foram utilizados os conceitos de ReactJS com TypeScript, aprendidos no Bootcamp GoStack da RocketSeat.
